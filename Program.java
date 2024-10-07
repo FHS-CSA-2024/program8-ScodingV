@@ -1,6 +1,8 @@
 //import stuff here
 import java.util.Scanner;
 //Your code here
+
+//Class name should match file name
 public class NumberOperations {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
